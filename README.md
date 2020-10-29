@@ -5,3 +5,19 @@
 - 🤔 I’m looking for a Junior Fullstack Web Developer position
 - 📫 How to reach me: www.linkedin.com/in/bas-van-der-sluis-
 - ⚡ Fun fact: I love nature, traveling, diving and food from all around the world
+
+Skill - VSCode
+
+Skill - HTML5
+
+Skill - CSS3
+
+Skill - Bootstrap
+
+Skill - JavaScript
+
+Skill - React
+
+Skill - NodeJS
+
+
